@@ -1,22 +1,22 @@
-<img width="169" alt="image" src="https://github.com/user-attachments/assets/70728e9b-2213-4db6-970b-16c5b5a2a72b" /> 
+
 Student Course Management System
 
 Project Overview
 
-This project is a Student Course Management System developed using SQL. It simulates a real-world educational platform where students enroll in courses taught by instructors. The system manages data related to students, instructors, courses, and enrollments, providing insights through various SQL queries and advanced features like views, indexes, and triggers.
+This project is dubbed  "Student Course Management System". I developed this project using PostGreSQL. This mini-project simulates a real-world educational platform where students enroll in courses taught by instructors. The system manages data related to students, instructors, courses, and enrollments, providing insights through various SQL queries and advanced features like views, indexes, and triggers.
 
 **Database Schema**
 
 The database consists of the following tables:
 
-- Students
+**- Students**
   - `student_id` (INT, PRIMARY KEY)
   - `first_name` (VARCHAR)
   - `last_name` (VARCHAR)
   - `email` (VARCHAR)
   - `date_of_birth` (DATE)
 
-- Instructors
+**- Instructors**
   - `instructor_id` (INT, PRIMARY KEY)
   - `first_name` (VARCHAR)
   - `last_name` (VARCHAR)
@@ -35,13 +35,13 @@ The database consists of the following tables:
   - `enrollment_date` (DATE)
   - `grade` (CHAR(1))
 
- Entity-Relationship Diagram (ERD)
+ **Entity-Relationship Diagram (ERD)**
 
-<img width="169" alt="image" src="https://github.com/user-attachments/assets/cdbe7543-741c-42c2-a5be-4cbdb76766d2" />
+
 
  Setup Instructions
 
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/yourusername/student-course-management.git
+   git clone https://github.com/HillaryOnyango/course_management.git
