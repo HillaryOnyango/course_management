@@ -1,4 +1,5 @@
-<img width="169" alt="image" src="https://github.com/user-attachments/assets/70728e9b-2213-4db6-970b-16c5b5a2a72b" /> Student Course Management System
+<img width="169" alt="image" src="https://github.com/user-attachments/assets/70728e9b-2213-4db6-970b-16c5b5a2a72b" /> 
+Student Course Management System
 
 Project Overview
 
