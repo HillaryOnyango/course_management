@@ -1,6 +1,6 @@
- Student Course Management System
+<img width="169" alt="image" src="https://github.com/user-attachments/assets/70728e9b-2213-4db6-970b-16c5b5a2a72b" /> Student Course Management System
 
-** Project Overview**
+Project Overview
 
 This project is a Student Course Management System developed using SQL. It simulates a real-world educational platform where students enroll in courses taught by instructors. The system manages data related to students, instructors, courses, and enrollments, providing insights through various SQL queries and advanced features like views, indexes, and triggers.
 
@@ -21,13 +21,13 @@ The database consists of the following tables:
   - `last_name` (VARCHAR)
   - `email` (VARCHAR)
 
-- Courses
+- **Courses**
   - `course_id` (INT, PRIMARY KEY)
   - `course_name` (VARCHAR)
   - `course_description` (TEXT)
   - `instructor_id` (INT, FOREIGN KEY → Instructors)
 
-- Enrollments
+- **Enrollments**
   - `enrollment_id` (INT, PRIMARY KEY)
   - `student_id` (INT, FOREIGN KEY → Students)
   - `course_id` (INT, FOREIGN KEY → Courses)
