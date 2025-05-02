@@ -1,7 +1,7 @@
 
-Student Course Management System
+**Student Course Management System**
 
-Project Overview
+**Project Overview**
 
 This project is dubbed  "Student Course Management System". I developed this project using PostGreSQL. This mini-project simulates a real-world educational platform where students enroll in courses taught by instructors. The system manages data related to students, instructors, courses, and enrollments, providing insights through various SQL queries and advanced features like views, indexes, and triggers.
 
